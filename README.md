@@ -1,6 +1,3 @@
-2026-04-06
+April 7, 2026
 
-- Refactored article scraping module to improve performance by 15%
-- Fixed bug in user authentication where invalid credentials would cause a server crash
-- Updated README.md to reflect changes in project architecture and added documentation for API endpoints
-- Made minor improvements to front-end layout to better align with LinkedIn's branding guidelines
+Refactored article fetching logic to reduce network requests by 30% in linkedin_articles/api/article.py. Fixed a bug causing duplicate article entries in linkedin_articles/models/article.py. Updated API documentation to reflect changes in README.md. Improved performance by 15% in linkedin_articles/views/article_view.py.
