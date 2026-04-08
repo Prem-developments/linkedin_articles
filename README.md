@@ -1,3 +1,3 @@
-April 7, 2026
+April 8, 2026
 
-Refactored article fetching logic to reduce network requests by 30% in linkedin_articles/api/article.py. Fixed a bug causing duplicate article entries in linkedin_articles/models/article.py. Updated API documentation to reflect changes in README.md. Improved performance by 15% in linkedin_articles/views/article_view.py.
+Refactored article scraper to handle duplicate article detection more efficiently. Fixed bug causing incorrect article count display. Updated README.md to reflect recent changes. Also, optimized database queries to improve application performance.
