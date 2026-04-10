@@ -1,6 +1,3 @@
-2026-04-09
+April 10, 2026
 
-- Fixed issue with article scraping, improved error handling to prevent crashes
-- Refactored article storage to use a more efficient data structure, reduced memory usage by 10%
-- Updated README to reflect recent changes and improvements to the project
-- Added performance metrics to track improvement in article retrieval time
+Refactored database schema to improve query efficiency, fixed a few edge cases related to article retrieval and commenting functionality. Also updated the README to reflect recent changes and improvements. Additionally, optimized CSS for better mobile responsiveness.
