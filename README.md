@@ -1,2 +1,1 @@
-04/13/2026: 
-refactored database schema to improve query performance and fixed bug in article scraping module. updated README.md with current project status and added notes on future development plans.
+2026-04-14: Updated README.md with detailed project overview and setup instructions. Also, refactored the data fetching module to improve performance and fixed a bug in article parsing. Updated documentation with better error handling examples.
