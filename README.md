@@ -1,1 +1,6 @@
-2026-04-14: Updated README.md with detailed project overview and setup instructions. Also, refactored the data fetching module to improve performance and fixed a bug in article parsing. Updated documentation with better error handling examples.
+April 15, 2026
+
+Fixed bug in article scraper causing incorrect metadata retrieval. 
+Refactored article parsing logic to improve thread safety and reduce memory usage.
+Updated README.md to reflect current project status and improved performance metrics.
+Also fixed a few typos in documentation.
