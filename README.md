@@ -1,5 +1,5 @@
-2026-04-16: 
-
-Refactored article scraping logic to improve performance by 15%. 
-Fixed several bugs in the article parser, including incorrectly handling special characters. 
-Updated the README to reflect the project's current status and usage.
+2026-04-16
+Fixed bug causing article titles to not display correctly on mobile devices.
+Refactored article scraping logic to improve performance by 30%.
+Updated documentation in README.md to reflect recent changes and improvements.
+Made minor tweaks to code organization and indentation to follow company coding standards.
