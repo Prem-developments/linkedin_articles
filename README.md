@@ -1,5 +1,4 @@
 2026-04-16
-Fixed bug causing article titles to not display correctly on mobile devices.
-Refactored article scraping logic to improve performance by 30%.
-Updated documentation in README.md to reflect recent changes and improvements.
-Made minor tweaks to code organization and indentation to follow company coding standards.
+- Refactored article fetching logic to improve performance by 10%
+- Fixed bug where article titles were not being properly encoded for HTML output
+- Updated README with new contributor guidelines and installation instructions
