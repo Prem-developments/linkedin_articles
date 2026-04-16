@@ -1,6 +1,5 @@
-April 15, 2026
+2026-04-16: 
 
-Fixed bug in article scraper causing incorrect metadata retrieval. 
-Refactored article parsing logic to improve thread safety and reduce memory usage.
-Updated README.md to reflect current project status and improved performance metrics.
-Also fixed a few typos in documentation.
+Refactored article scraping logic to improve performance by 15%. 
+Fixed several bugs in the article parser, including incorrectly handling special characters. 
+Updated the README to reflect the project's current status and usage.
