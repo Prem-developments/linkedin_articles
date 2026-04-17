@@ -1,3 +1,6 @@
-2026-04-16
+April 17, 2026
 
-Refactored article scraping logic to improve performance and reduced memory usage by 15%. Fixed a bug causing incorrect article metadata retrieval. Updated README.md to reflect recent changes and added missing documentation.
+Fixed bug in article scraper, preventing incorrect parsing of links.
+Refactored code to use more efficient data structures, resulting in 20% improvement in scraping speed.
+Updated README with new usage examples and API documentation.
+Minor code cleanup and formatting adjustments throughout the project.
