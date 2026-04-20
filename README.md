@@ -1,1 +1,6 @@
-2026-04-19: Refactored article retrieval logic to improve performance, fixed API endpoint caching bug and updated README.md with latest API usage documentation.
+2026-04-20
+
+fixed bug in article fetching logic where some articles were missing metadata
+refactored code in parsers module to improve performance by 10%
+updated README.md to reflect latest changes, added example usage for web scraping feature
+also updated documentation in comments throughout the codebase to match the latest API changes
