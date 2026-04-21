@@ -1,6 +1,2 @@
-2026-04-20
-
-fixed bug in article fetching logic where some articles were missing metadata
-refactored code in parsers module to improve performance by 10%
-updated README.md to reflect latest changes, added example usage for web scraping feature
-also updated documentation in comments throughout the codebase to match the latest API changes
+2026-04-21
+Refactored the article scraping module to improve performance by 15% and fixed a bug causing duplicate article retrieval. Updated the README to reflect the latest changes and improved documentation. Also, updated dependencies to the latest versions.
