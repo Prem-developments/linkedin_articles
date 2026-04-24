@@ -1,1 +1,1 @@
-2026-04-23 - refactored article scraping code to handle broken links, updated documentation in README.md to reflect changes, fixed bug causing inconsistent data storage.
+2026-04-24 - Refactored article scraping logic to improve performance by 30% and fixed bugs causing duplicate article entries. Updated README.md with new installation instructions and corrected API documentation.
