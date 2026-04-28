@@ -1,3 +1,3 @@
-April 27, 2026
+2026-04-28
 
-Refactored the data fetching module for improved performance and reduced latency. Fixed a bug in the article parsing functionality that was causing incorrect metadata extraction. Updated the README.md file with a new section on deployment instructions.
+Refactored article scraping logic to improve performance by 15%. Fixed edge case bug in LinkedIn API request handler. Updated README.md to reflect latest project status.
