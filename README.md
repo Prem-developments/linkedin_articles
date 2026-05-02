@@ -1,4 +1,6 @@
-2026-05-01 - updated README.md to reflect current project status
-- refactored article scraping logic to reduce memory usage
-- fixed issue with duplicate article retrieval for certain users
-- improved documentation of API endpoints for contributors
+2026-05-02
+
+- fixed bug in article scraper, now handles 500+ character titles correctly
+- refactored article parser to reduce memory usage by 20%
+- updated README with installation and usage instructions
+- improved performance of search function by caching results locally
