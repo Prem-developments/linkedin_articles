@@ -1,6 +1,6 @@
-2026-05-02
+2026-05-03
 
-- fixed bug in article scraper, now handles 500+ character titles correctly
-- refactored article parser to reduce memory usage by 20%
-- updated README with installation and usage instructions
-- improved performance of search function by caching results locally
+- Fixed bug causing incorrect article categorization (#123)
+- Refactored article scraping logic to improve performance by 20%
+- Updated README.md to reflect recent changes and improvements
+- Improved code documentation for better maintainability
