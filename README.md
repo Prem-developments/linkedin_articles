@@ -1,5 +1,1 @@
-2026-05-05: 
-Fixed bug in article fetching, now handles pagination correctly.
-Refactored code to improve scalability and reduce memory usage.
-Updated README.md to reflect recent changes and improvements.
-Started optimizing database queries to improve performance.
+2026-05-06: updated README with latest project info. Also fixed issues with article scraper, refactored code to improve performance, and updated docstrings for clarity. Added a check to handle missing metadata.
